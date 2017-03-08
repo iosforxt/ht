@@ -17,13 +17,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>io.dcloud.HT</string>
+                    <string>io.dcloud.cbos</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>HT.ipa</string>
+                    <string>CBOS.ipa</string>
                 </dict>
             </dict>
         </array>
